@@ -6,7 +6,7 @@ ul {
     margin: 0;
     padding: 0;
     width: 25%;
-    background-color: #f1f1f1;
+    background-color: #b5b5b5;
     height: 100%;
     position: fixed;
     overflow: auto;
@@ -19,7 +19,7 @@ li a {
 }
 
 li a:hover {
-    background-color: #555;
+    background-color: #ffdf00;
     color: white:
 ul {
     border: 1px solid #555;
